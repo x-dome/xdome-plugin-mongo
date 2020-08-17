@@ -12,6 +12,9 @@
   "files": [
     "/src/*"
   ],
+  "dependencies": {
+    "xdome-extension-rest": "git+https://github.com/x-dome/xdome-extension-rest.git#releases/0.x/v0.1.1"
+  },
   "devDependencies": {
     "@commitlint/cli": "^9.1.2",
     "@commitlint/config-conventional": "^9.1.1",
